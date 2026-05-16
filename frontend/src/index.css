@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+/* NAVBAR */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background: #111827;
+}
+
+nav a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+/* HERO */
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero h1 {
+  font-size: 40px;
+}
+
+.buttons button {
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+/* ABOUT */
+.about {
+  padding: 60px;
+  text-align: center;
+  background: #1f2937;
+}
+
+/* SKILLS */
+.skills {
+  padding: 60px;
+  text-align: center;
+}
+
+.skills-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.skill-card {
+  background: #334155;
+  padding: 15px 25px;
+  border-radius: 10px;
+}
+
+/* PROJECTS */
+.projects {
+  padding: 60px;
+  text-align: center;
+  background: #0f172a;
+}
+
+.projects-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.project-card {
+  background: #1f2937;
+  padding: 20px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+/* CERTIFICATIONS */
+.certifications {
+  padding: 60px;
+  text-align: center;
+  background: #1f2937;
+}
