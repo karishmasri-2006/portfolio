@@ -23,7 +23,7 @@ function App() {
 
       {/* HERO SECTION */}
       <section className="hero">
-        <h1>Hi, I'm Karishma</h1>
+        <h1>Hi, I'm Karishma Sri K</h1>
         <p>Full Stack Developer Intern</p>
       </section>
 
@@ -32,7 +32,7 @@ function App() {
         <h2>About Me</h2>
 
         <p>
-          I am a passionate Full Stack Developer Intern interested in
+          I am Karishma Sri K a passionate Full Stack Developer Intern interested in
           web development, programming, and problem solving.
           I enjoy building dynamic applications using React,
           Node.js, Express, and MySQL.
